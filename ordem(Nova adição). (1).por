@@ -175,11 +175,11 @@ programa {
            se(convencer >= 15){
             escreva("Vc consegui convencer os estrangeiro.\nVoce está livre.")
            }senao{
-            escreva("Seu corpo começa e brilhar em dourado. E agora vc está preso pelo estrangeiro\n")
+            escreva("Seu corpo começa a brilhar em dourado. E agora vc está preso pelo Estrangeiro\n")
             escreva("Pelo elemento de conhecimento.")
            }
           } senao {
-            escreva("Seu corpo começa e brilhar em dourado. E agora vc está preso pelo estrangeiro.\n")
+            escreva("Seu corpo começa a brilhar em dourado. E agora vc está preso pelo Estrangeiro.\n")
             escreva("Pelo elemento de conhecimento.")
             pare
           }
