@@ -162,7 +162,7 @@ programa {
         inteiro convencer
         se(resposta == "C" ou resposta == "c") {
           escreva("Está correto, agora faz parte do grupo do estrangeiro.\n")
-          escreva("E terá todo o conhecimento,\nmas você poderá sair por ordem do ESTRANGEIRO.\n,\n")
+          escreva("E terá todo o conhecimento\nmas você poderá sair por ordem do ESTRANGEIRO.\n\n")
           escreva("Mas que tentar convencer o estrangeiro te Libertar?\n")
           escreva("Vai ter que girar um 1D20 para convencer ele vc quer tentar?")
           escreva("\nS ou N: ")
