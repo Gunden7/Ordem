@@ -167,6 +167,7 @@ programa {
           escreva("Vai ter que girar um 1D20 para convencer ele vc quer tentar?")
           escreva("\nS ou N: ")
           leia(resposta)
+          limpa()
           se (resposta == "S" ou resposta == "s"){
            convencer = sorteia(1,20)
            escreva("Que vc Disse a ele: ")
